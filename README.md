@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>CLI Contact List App</title>
 </head>
 <body>
   <h1>CLI Contact List App</h1>
@@ -11,17 +10,11 @@
 
   <h2>Screenshots</h2>
   
-  <img src="https://monosnap.com/file/MjfdGRFennCkP5XmFsY7qG5EHsTMeM" alt="Screenshot 1">
-  <img src="https://monosnap.com/file/HrI4y8GPlDuJSvhynJoFs6Yg6C2umX" alt="Screenshot 2">
-  <img src="https://monosnap.com/file/UCSzWlPjenqE6h6IezcoAfsTAQjw9p" alt="Screenshot 3">
-  <img src="https://monosnap.com/file/hwUSDHQd89dkzMyE59UsRBgunf57OV" alt="Screenshot 4">
-
-  <h2>Features</h2>
-  
   <ul>
-    <li>Add a new contact to the list.</li>
-    <li>Remove a contact from the list.</li>
-    <li>Get a contact by their ID.</li>
+ <li><a href="https://ibb.co/9gdpjN1" >Get a list of contacts</a></li>
+  <li><a href="https://ibb.co/2vFMRdb">Remove a contact from the list.</a></li>
+ <li><a href="https://ibb.co/7VtnxYL">Get a contact by their ID.</a></li>
+ <li><a href="https://ibb.co/xFJCC6G">Add a new contact to the list.</a></li>
   </ul>
 
   <h2>Prerequisites</h2>
